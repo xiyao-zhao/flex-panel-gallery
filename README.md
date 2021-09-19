@@ -2,7 +2,7 @@
 
 A themed panel gallery with toggle options to expand/shrink the panel, and transform text. 
 
-Technique highlight:
+Main properties & methods used in this project:
 
 CSS: flex-box, transition, selectors
 
